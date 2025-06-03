@@ -6,11 +6,5 @@
 *.sublime*
 npm-debug.
 # мои файлы
-/.vscode
 /node_modules
-# /src
-/src/components
-/marcho
 package-lock.json
-gulpfile.js
-package.json
