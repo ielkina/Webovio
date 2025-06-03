@@ -58,20 +58,22 @@ h6 {
 }
 .header__content {
   max-width: 616px;
-  margin: 5px 0;
-  padding: 188px 0;
+  height: 412px;
+  padding-left: 12px;
+  margin-top: 150px;
   justify-content: flex-start;
 }
 .header__content-text {
+  margin-bottom: 24px;
+  line-height: 26px;
   font-weight: 400;
-  font-size: 14px;
-  line-height: 21px;
 }
 .header__content-title {
+  margin-bottom: 40px;
+  line-height: 74px;
   font-weight: 700;
   font-size: 60px;
-  line-height: 74px;
 }
-.header__content-link:hover {
-  text-decoration: underline;
+.header__content-link {
+  margin-top: 45px;
 }
